@@ -1,0 +1,266 @@
+
+ body{
+	background-color: rgb(152, 152, 152);
+ }
+ .avto6{
+	margin-top: 15px;
+	border-radius: 5px;
+	margin-left: 15px;
+ }
+ *{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+.avto{
+    text-align: center;
+    margin-left: 250px;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+}
+.amgbr{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin-left: 200px;
+}
+.ner{
+    text-align: center;
+    margin-left: 150px;
+    text-decoration: none;
+    color: white;
+}
+
+.login{
+    text-align: center;
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+}
+.avto{
+    background-color: rgb(0, 0, 0); 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    transition-duration: 0.4s; 
+    width: fit-content; 
+    text-decoration: none; 
+    padding: 10px;
+}    
+.avto:hover{ 
+background-color: rgba(255, 0, 0, 0.592);  }
+.ner{
+background-color: rgb(0, 0, 0); 
+color: white; 
+border: none; 
+border-radius: 5px; 
+transition-duration: 0.4s; 
+width: fit-content; 
+text-decoration: none; 
+padding: 10px;
+}    
+.ner:hover{ 
+background-color: rgba(17, 40, 169, 0.592); }
+.buy{
+background-color: rgb(0, 0, 0); 
+color: white; 
+border: none; 
+border-radius: 5px; 
+transition-duration: 0.4s; 
+width: fit-content; 
+text-decoration: none; 
+padding: 10px;
+}    
+.buy:hover{ 
+background-color: rgba(255, 10, 10, 0.592); }
+.brend{
+    text-align: center;
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+}
+.brend{
+background-color: rgb(0, 0, 0); 
+color: white; 
+border: none; 
+border-radius: 5px; 
+transition-duration: 0.4s; 
+width: fit-content; 
+text-decoration: none; 
+padding: 10px;
+}    
+.brend:hover{ 
+background-color: rgba(17, 40, 169, 0.592); 
+}
+.login{
+background-color: rgb(0, 0, 0); 
+color: rgb(255, 255, 255); 
+border: none; 
+border-radius: 5px; 
+transition-duration: 0.4s; 
+width: fit-content; 
+text-decoration: none; 
+padding: 10px;
+}    
+.login:hover{ 
+background-color: rgba(222, 6, 6, 0.592); 
+}
+.buy{
+    margin-left: 150px;
+    text-decoration: none;
+    color: white;
+}
+.footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+.Loginn
+{ 
+    background:  rgba(255, 255, 255, 0.911);;
+    width: 500px;
+    margin: 50px;
+    padding: 30px;
+    border: 1px black solid;
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 200px;
+    background: rgb(106, 106, 106);
+    border-radius: 15px;
+}  
+.Loginn h1 {
+    text-align: center;
+    margin: 10px;
+}
+.input{
+    padding: 10px;
+    padding-left: 50px;
+}
+.submit{
+    background-color: rgba(0, 0, 0, 0.729); 
+    color: rgb(255, 255, 255); 
+    border: none; 
+    border-radius: 5px; 
+    transition-duration: 0.4s; 
+    width: fit-content; 
+    text-decoration: none; 
+    padding: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0px;
+    border-radius: 15px;
+    padding: 10px 60px;
+    margin-top: 5px;
+}    
+.submit:hover{ 
+background-color: rgb(94, 94, 94);  }
+.submit{
+    transition: 0.6s;
+}
+.submit:hover{
+    transform: scale(1.1);
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ul
+{
+    background-color: antiquewhite;
+    grid-area: ul;
+}
+.Footer
+{
+    background-color: rgb(0, 0, 0);
+    grid-area: Footer;
+    text-align: center;
+    color: white;
+    padding: 425px;
+}
+.ul
+{
+    background-color: antiquewhite;
+    grid-area: ul;
+    color:white; 
+}
+.body-qwerty {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; 
+    color: #ffffff; 
+    color: white;
+    padding: 15px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer-containerq {
+    background-color: #000000; 
+    padding: 40px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-top: 1
+}
+.footer-containerq{
+    color: white;
+}
+.footer-bottom{
+    margin-top: 25px;
+   margin-right: 800px;
+}   
+
+.hr {
+    width: 100%;
+    background: white;
+    height: 2px;
+    margin-top: 15px;
+}
+.wrapper{
+    margin-top: 15px;
+    bottom: 0%;
+}
+.avto2{
+    color: white;
+    text-decoration: none;
+}
+form{
+    border: none;
+    margin-top: 5px;
+    padding: 8px;
+    margin-bottom: 10px;
+    color: white;  
+}
+.register{
+    text-decoration: none;
+    color: rgb(25, 0, 255);
+     padding: 15px;
+}
+.input{
+    border-radius: 15px;
+}
+.input:hover{
+    padding: 15px;
+}

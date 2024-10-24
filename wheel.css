@@ -1,0 +1,227 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.header {
+    background: url('https://example.com/mercedes-header.jpg') no-repeat center center/cover;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.header-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.header-overlay h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #000;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    padding: 40px;
+    margin: 20px auto;
+    max-width: 1200px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.news-item, .event-item {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.news-image, .image {
+    width: 40%;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+
+.event-item {
+    padding: 20px;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+}
+
+.event-item h3 {
+    margin: 0;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+.avto{
+    text-align: center;
+    margin-left: 250px;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+}
+.amgbr{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin-left: 200px;
+}
+.ner{
+    text-align: center;
+    margin-left: 150px;
+    text-decoration: none;
+    color: white;
+}
+
+.login{
+    text-align: center;
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+}
+.avto{
+    background-color: rgb(0, 0, 0); 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    transition-duration: 0.4s; 
+    width: fit-content; 
+    text-decoration: none; 
+    padding: 10px;
+}    
+.avto:hover{ 
+background-color: rgba(255, 0, 0, 0.592);  }
+.ner{
+background-color: rgb(0, 0, 0); 
+color: white; 
+border: none; 
+border-radius: 5px; 
+transition-duration: 0.4s; 
+width: fit-content; 
+text-decoration: none; 
+padding: 10px;
+}    
+.ner:hover{ 
+background-color: rgba(17, 40, 169, 0.592); }
+.buy{
+background-color: rgb(0, 0, 0); 
+color: white; 
+border: none; 
+border-radius: 5px; 
+transition-duration: 0.4s; 
+width: fit-content; 
+text-decoration: none; 
+padding: 10px;
+}    
+.buy:hover{ 
+background-color: rgba(255, 10, 10, 0.592); }
+.brend{
+    text-align: center;
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+}
+.brend{
+background-color: rgb(0, 0, 0); 
+color: white; 
+border: none; 
+border-radius: 5px; 
+transition-duration: 0.4s; 
+width: fit-content; 
+text-decoration: none; 
+padding: 10px;
+}    
+.brend:hover{ 
+background-color: rgba(17, 40, 169, 0.592); 
+}
+.login{
+background-color: rgb(0, 0, 0); 
+color: rgb(255, 255, 255); 
+border: none; 
+border-radius: 5px; 
+transition-duration: 0.4s; 
+width: fit-content; 
+text-decoration: none; 
+padding: 10px;
+}    
+.login:hover{ 
+background-color: rgba(222, 6, 6, 0.592); 
+}
+.buy{
+    margin-left: 150px;
+    text-decoration: none;
+    color: white;
+}
+.brend{
+    text-align: center;
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+}
+.brend{
+background-color: rgb(0, 0, 0); 
+color: white; 
+border: none; 
+border-radius: 5px; 
+transition-duration: 0.4s; 
+width: fit-content; 
+text-decoration: none; 
+padding: 10px;
+}    
+.brend:hover{ 
+background-color: rgba(17, 40, 169, 0.592); 
+}
+.colo{ 
+    background-color: rgb(0, 0, 0); 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    transition-duration: 0.4s; 
+    padding: 10px; 
+    margin-left: 15px; 
+    width: fit-content; 
+    text-decoration: none; 
+     
+} 
+.colo:hover{ 
+    background-color: rgb(77, 77, 77); 
+} 
